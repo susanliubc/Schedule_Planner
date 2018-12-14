@@ -7,7 +7,7 @@ Front end: react, materialize.css
 
 State management: redux
 
-Authentication: firebase authentication
+Authentication: firestore authentication
 
 Database: firestore
 
