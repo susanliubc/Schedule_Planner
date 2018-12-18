@@ -3,12 +3,16 @@ A website for schedule planning
 
 Full stack project deployed in firebase:
 
-Front end: react, materialize.css
+Front end: react, materialize.css;
 
-State management: redux
+Backend: firestore;
 
-Authentication: firestore authentication
+State management: redux;
 
-Database: firestore
+Authentication: firestore authentication;
+
+Database: firestore database
 
 Asynchronous request: thunk
+
+Routing: React router v4
